@@ -1,6 +1,8 @@
 # Cat_themed_coffee
 猫咪主题咖啡馆服务管理系统
 
+核心技术：SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 、Socket.IO
+
 系统总体大概功能如下所示：
 
 管理员功能模块： 
